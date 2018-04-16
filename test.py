@@ -91,15 +91,6 @@ def crash(snake):
     return crashed
 
 
-# def scoring(score):
-#     file = shelve.open('score.txt')
-#     highscore = file['score']
-#     if highscore:
-#         if highscore < score:
-#             file['score'] = score
-#     file.close()
-
-
 def main():
     pygame.mixer.music.play(-1)
     pygame.mixer.music.set_volume(0.2)
