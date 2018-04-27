@@ -1,3 +1,5 @@
+# My Snake Game
+
 Short snake game created with pygame library.
 
 The project was writen by the time I had no knowledge of object oriented programming.
